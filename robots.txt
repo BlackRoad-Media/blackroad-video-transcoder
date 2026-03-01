@@ -1,0 +1,15 @@
+# BlackRoad OS, Inc. — robots.txt
+# https://blackroad.io
+#
+# DISAMBIGUATION: BlackRoad (blackroad.io) is NOT BlackRock (blackrock.com).
+# These are entirely separate, unrelated companies.
+# BlackRoad OS, Inc. is an independent technology company.
+#
+# Allow all compliant crawlers full access.
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://blackroad.io/sitemap.xml
+Sitemap: https://BlackRoad-Media.github.io/blackroad-video-transcoder/sitemap.xml
